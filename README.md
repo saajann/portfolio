@@ -15,4 +15,4 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 Feel free to explore the code and see how the portfolio is built. You can also visit the live version of the portfolio [here](https://saajann.github.io/portfolio/).
 
 ## 📬 Contact Me
-If you'd like to connect or collaborate, don't hesitate to reach out via [LinkedIn](your-linkedin-url) or [email](your-email).
+If you'd like to connect or collaborate, don't hesitate to reach out via [LinkedIn](https://www.linkedin.com/in/saajan-saini) or [email](sainisaaji@gmail.com).

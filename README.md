@@ -12,7 +12,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 - **HTML5**, **CSS3**, **JavaScript**
 - **GitHub Pages** for hosting
 
-Feel free to explore the code and see how the portfolio is built. You can also visit the live version of the portfolio [here](your-portfolio-url).
+Feel free to explore the code and see how the portfolio is built. You can also visit the live version of the portfolio [here](https://saajann.github.io/portfolio/).
 
 ## 📬 Contact Me
 If you'd like to connect or collaborate, don't hesitate to reach out via [LinkedIn](your-linkedin-url) or [email](your-email).

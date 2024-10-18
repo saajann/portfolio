@@ -342,6 +342,12 @@ section {
   justify-content: space-around;
 }
 
+.projects-img {
+  width: auto; /* Larghezza automatica per mantenere le proporzioni */
+  height: 300px; /* Altezza fissa per le immagini */
+  object-fit: cover; /* Opzionale: mantiene le proporzioni e riempie l'area */
+}
+
 article {
   display: flex;
   width: 10rem;
